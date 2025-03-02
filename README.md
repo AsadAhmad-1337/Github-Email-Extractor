@@ -13,5 +13,5 @@ Windows, Mac, Linux , Android (Termux)
 pip install requests colorama
 
 # Run:
-
+git clone https://github.com/AsadAhmad-1337/Github-Email-Extractor.git
 python Github_Email_Extractor.py
