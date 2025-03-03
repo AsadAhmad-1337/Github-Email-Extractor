@@ -2,10 +2,6 @@
 
 Python script to extract or scrape complete email addresses from any GitHub profile.
 
-# Demo
-
-
-
 https://github.com/user-attachments/assets/840bd3a6-0147-40dc-989d-8e85fbcf7b2b
 
 
